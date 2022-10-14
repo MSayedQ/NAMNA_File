@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<inpute type = 'text' >
+<input type = 'text' >
 <input type = 'button' value='ok'>
 
 </body>
